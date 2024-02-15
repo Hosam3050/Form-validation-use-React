@@ -32,7 +32,7 @@ export default function Profile() {
     switch (e.target.name) {
 
 
-      /*****************-- password---***************** */
+      /*****************-- FirstName---***************** */
 
       case "FirstName":
         setUserForm({
